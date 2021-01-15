@@ -1,4 +1,4 @@
-# adrearestaurant
+# Adrea-Restaurant
 
 ## Description
 
