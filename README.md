@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a personal project for learning purpose a restaurant table reservation website for Adera restaurant Dublin Ireland.
+This is a personal project for learning purpose a restaurant table reservation website for Adera restaurant.
 
 ## <a href="https://durgeshrai04.github.io/adrearestaurant.github.io/" target="_blank">LIVE DEMO</a>
 
