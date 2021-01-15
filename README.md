@@ -1,9 +1,9 @@
-# adrearestaurant.github.io
+# adrearestaurant
 
 ## Description
 
-A restaurant table reservation website for Adera restaurant for learning Puropose.
-
-![ Website Template](resume-screenshot-naz.png?raw=true "ReactJS Resume Website Template")
+This is a personal project for learning purpose a restaurant table reservation website for Adera restaurant Dublin Ireland.
 
 ## <a href="https://durgeshrai04.github.io/adrearestaurant.github.io/" target="_blank">LIVE DEMO</a>
+
+![Website](https://raw.githubusercontent.com/DurgeshRai04/adrearestaurant.github.io/main/Images/Mockup%20Example%20-%20Project%201.jpg " Website")
